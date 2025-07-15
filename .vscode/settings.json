@@ -5,7 +5,7 @@
       "args": [
         "-NoExit",
         "-Command",
-        "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; .\\fastapi-env\\Scripts\\Activate.ps1"
+        "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; .\\blog-env\\Scripts\\Activate.ps1"
       ]
     }
   },
